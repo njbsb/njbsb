@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @njbsb
+- 👋 Hi, I’m Najib
 - 👀 Interested in software development, both mobile and web
 - 🌱 Background in php, python, java and javascript
 - 📫 Currently working with MS PowerApps
